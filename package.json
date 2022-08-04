@@ -1,0 +1,25 @@
+{
+  "name": "housing-webpage",
+  "version": "1.0.0",
+  "description": "A website landing page for a hypothetical architectural firm to display listed projects.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabbydamian/marc-architecture-.git"
+  },
+  "keywords": [
+    "HTML5",
+    "css3",
+    "bootstrap",
+    "housing"
+  ],
+  "author": "Damian Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabbydamian/marc-architecture-/issues"
+  },
+  "homepage": "https://github.com/Gabbydamian/marc-architecture-#readme"
+}
